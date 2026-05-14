@@ -1,4 +1,4 @@
-#  
+#  vip Utility for OneNote for macOS - export to PDF and markdown support is the best OneNote for macOS utility, featuring export to PDF and markdown support. Safe, efficient, and
 
 
 
